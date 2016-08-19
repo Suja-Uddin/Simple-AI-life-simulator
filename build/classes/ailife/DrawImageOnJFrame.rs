@@ -1,0 +1,9 @@
+ailife.DrawImageOnJFrame$3
+ailife.DrawImageOnJFrame$4
+ailife.DrawImageOnJFrame$1
+ailife.Point
+ailife.DrawImageOnJFrame$2
+ailife.DrawImageOnJFrame
+ailife.DrawImageOnJFrame$5
+ailife.myThread
+ailife.mainFunction
